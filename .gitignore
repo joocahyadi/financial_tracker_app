@@ -1,0 +1,23 @@
+# Environment variables & local secrets
+.env
+.env.local
+.env.*.local
+config.js
+
+# Data dumps, temporary cache & logs
+api_dump.json
+*.log
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

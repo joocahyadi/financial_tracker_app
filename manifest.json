@@ -1,0 +1,19 @@
+{
+  "name": "Ledgerly - Minimalist Finance Tracker",
+  "short_name": "Ledgerly",
+  "description": "Minimalist PWA for personal budget tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1326",
+  "theme_color": "#0b1326",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
